@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "convert-csv-to-json": "^2.49.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "correios-brasil": "^3.0.6"
+  }
+}
